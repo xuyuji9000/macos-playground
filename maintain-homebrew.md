@@ -8,3 +8,8 @@ This file is used to document learning of maintaining homebrew on Macos.
 brew update -vd
 ```
 
+- List outdated formulas
+
+``` bash
+brew oudated
+```
